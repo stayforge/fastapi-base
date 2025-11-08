@@ -1,0 +1,5 @@
+### get_environment_enum
+
+GET http://localhost:8000/tenant/data/environment
+Content-Type: application/json
+Authorization: 123456789

@@ -1,4 +1,1 @@
-"""FastAPI Base Application."""
-
-__version__ = "0.1.0"
-
+# Application package initialization
